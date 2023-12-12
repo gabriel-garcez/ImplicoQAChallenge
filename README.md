@@ -32,7 +32,7 @@ To run the project you should execute the runner in the tests package with Junit
 
 
 # 🚨 Atention
-Some Features of the Website is not working. Such as update the quantity of the product in the cart so thats a Functional Error not the automation framework one but once the test is being covered the automation may failed. 
+Some Features of the Website is not working such as update the quantity of the product in the cart, so once it is a Functional Error. The automation framework may fail in the execution because the test is being covered. 
 
 
 # ✚ Aditional Features
