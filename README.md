@@ -28,6 +28,9 @@ To run the project you should execute the runner in the tests package with Junit
 
 <img width="212" alt="Screen Shot 2023-12-12 at 00 45 17" src="https://github.com/gabriel-garcez/ImplicoQAChallenge/assets/32854591/6b85dddc-57c2-4a89-a30b-30eb1f971745">
 
+<img width="526" alt="Screen Shot 2023-12-12 at 01 39 55" src="https://github.com/gabriel-garcez/ImplicoQAChallenge/assets/32854591/b37ede2a-4961-4a72-86b5-9366f5060c85">
+
+
 # 🚨 Atention
 Some Features of the Website is not working. Such as update the quantity of the product in the cart so thats a Functional Error not the automation framework one but once the test is being covered the automation may failed. 
 
